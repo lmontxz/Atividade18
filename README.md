@@ -6,5 +6,5 @@ Neste repositótio, está um dos projetos desenvolvidos em sala, na disciplina d
 ## Descrição do Projeto
 Como proposto na aula, o objetivo do trabalho era "recriar" a página do meuIFMG e é exatamente sobre isso que se trata. 
 
-![Badge](https://img.shields.io/badge/STATUS-PARADO-blue)
+![Badge](https://img.shields.io/badge/STATUS-CONCLUIDO-brightgreen)
 

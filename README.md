@@ -5,5 +5,5 @@ Neste repositótio, está um dos projetos desenvolvidos em sala, na disciplina d
 
 #índice 
 
-<!--ts-->
-8 [Título e imagem](#Titulo e IMG)
+## Descrição do Projeto
+Como proposto na aula, o objetivo do trabalho era "recriar" a página do meuIFMG e é exatamente sobre isso que se trata. 

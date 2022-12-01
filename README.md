@@ -5,4 +5,19 @@ Neste repositótio, está um dos projetos desenvolvidos em sala, na disciplina d
 
 ## Descrição do Projeto
 Como proposto na aula, o objetivo do trabalho era "recriar" a página do meuIFMG e é exatamente sobre isso que se trata. 
-![trpc](https://user-images.githubusercontent.com/118456918/205073192-ff5247cc-d834-4349-9621-6f5fd75f47a7.svg)
+
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->

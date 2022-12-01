@@ -17,6 +17,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Autor
 
-| [<img src="https://lh3.googleusercontent.com/ogw/AOh-ky366PPisv0TRKwYxCehOBNbsGGUaHlOQBUm4opufLY=s32-c-mo"><br><sub>Nayara Monteiro</sub>](https://github.com/cseveriano) |
+| [<img src="https://lh3.googleusercontent.com/ogw/AOh-ky366PPisv0TRKwYxCehOBNbsGGUaHlOQBUm4opufLY=s32-c-mo"><br><sub>Nayara Monteiro</sub>](https://github.com/lmontxz) |
 | :---: |
 

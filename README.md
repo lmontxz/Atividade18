@@ -5,4 +5,5 @@ Neste repositótio, está um dos projetos desenvolvidos em sala, na disciplina d
 
 #índice 
 
+<!--ts-->
 8 [Título e imagem](#Titulo e IMG)

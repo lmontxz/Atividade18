@@ -9,7 +9,7 @@ Como proposto na aula, o objetivo do trabalho era "recriar" a página do meuIFMG
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Descrição](#Descrição do Projeto)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)

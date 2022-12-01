@@ -16,6 +16,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Autor
-![eu](https://user-images.githubusercontent.com/118456918/205079274-2f4ca46b-0db5-4872-8a1e-7b174902f096.png)
 
-
+| [<img src="https://user-images.githubusercontent.com/118456918/205079274-2f4ca46b-0db5-4872-8a1e-7b174902f096.png" width=115><br><sub>Nayara Monteiro</sub>](https://github.com/cseveriano) |

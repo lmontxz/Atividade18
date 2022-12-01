@@ -12,7 +12,7 @@ Como proposto na aula, o objetivo do trabalho era "recriar" a página do meuIFMG
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
+- [HTML5](https://html.spec.whatwg.org/multipage/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)

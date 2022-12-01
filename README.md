@@ -8,3 +8,12 @@ Como proposto na aula, o objetivo do trabalho era "recriar" a página do meuIFMG
 
 ![Badge](https://img.shields.io/badge/STATUS-CONCLUIDO-brightgreen)
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+

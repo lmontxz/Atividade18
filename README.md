@@ -6,18 +6,4 @@ Neste repositótio, está um dos projetos desenvolvidos em sala, na disciplina d
 ## Descrição do Projeto
 Como proposto na aula, o objetivo do trabalho era "recriar" a página do meuIFMG e é exatamente sobre isso que se trata. 
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Descrição do Projeto)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+https://img.shields.io/appveyor/build/STATUS/PARADO
